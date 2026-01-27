@@ -1,0 +1,17 @@
+﻿** Aspectos destacados
+     Tablas que se volverán a crear con los datos migrados
+       Ninguno
+     Índices clúster que se van a quitar
+       Ninguno
+     Índices clúster que se van a crear
+       Ninguno
+     Posibles incidencias de datos
+       Ninguno
+
+** Acciones del usuario
+     Crear
+       [dbo].[Customer.CustomerCustomerDemo] (Tabla)
+       [dbo].[FK_CustomerCustomerDemo_Customers] (Clave externa)
+       [dbo].[FK_CustomerCustomerDemo] (Clave externa)
+
+** Acciones de compatibilidad

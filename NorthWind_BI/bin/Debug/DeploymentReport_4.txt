@@ -1,0 +1,19 @@
+﻿** Aspectos destacados
+     Tablas que se volverán a crear con los datos migrados
+       [dbo].[HumanResources.Territories]
+     Índices clúster que se van a quitar
+       Ninguno
+     Índices clúster que se van a crear
+       Ninguno
+     Posibles incidencias de datos
+       Ninguno
+
+** Acciones del usuario
+     Quitar
+       restricción sin nombre en [dbo].[HumanResources.Territories] (Clave externa)
+     Volver a crear la tabla
+       [dbo].[HumanResources.Territories] (Tabla)
+     Crear
+       [dbo].[FK_Territories_Region] (Clave externa)
+
+** Acciones de compatibilidad

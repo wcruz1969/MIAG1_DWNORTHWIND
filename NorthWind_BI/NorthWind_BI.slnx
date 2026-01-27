@@ -1,0 +1,10 @@
+<Solution>
+  <Project Path="../DW/DW.sqlproj" Id="188ac7f2-ea06-40ef-ac79-47c71214ea4e">
+    <Build />
+    <Deploy />
+  </Project>
+  <Project Path="NorthWind_BI.sqlproj" Id="0b3ab0e5-2720-4ef2-bc51-1d387caa8fee">
+    <Build />
+    <Deploy />
+  </Project>
+</Solution>
