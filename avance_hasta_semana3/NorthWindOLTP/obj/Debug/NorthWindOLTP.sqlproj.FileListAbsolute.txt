@@ -1,0 +1,12 @@
+C:\Users\Dell\Desktop\04 Data Mangement and Business Intelligence\NorthWindG1\NorthWindG1\NorthWindOLTP\bin\Debug\NorthWindOLTP.dacpac
+C:\Users\Dell\Desktop\04 Data Mangement and Business Intelligence\NorthWindG1\NorthWindG1\NorthWindOLTP\bin\Debug\NorthWindOLTP.dll
+C:\Users\Dell\Desktop\04 Data Mangement and Business Intelligence\NorthWindG1\NorthWindG1\NorthWindOLTP\bin\Debug\NorthWindOLTP.pdb
+C:\Users\Dell\Desktop\04 Data Mangement and Business Intelligence\NorthWindG1\NorthWindG1\NorthWindOLTP\obj\Debug\NorthWindOLTP.sqlproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\04 Data Mangement and Business Intelligence\NorthWindG1\NorthWindG1\NorthWindOLTP\obj\Debug\NorthWindOLTP.dll
+C:\Users\Dell\Desktop\04 Data Mangement and Business Intelligence\NorthWindG1\NorthWindG1\NorthWindOLTP\obj\Debug\NorthWindOLTP.pdb
+C:\Users\Dell\Desktop\04 Data Mangement and Business Intelligence\NorthWindG1 - Copia\NorthWindG1\NorthWindOLTP\bin\Debug\NorthWindOLTP.dacpac
+C:\Users\Dell\Desktop\04 Data Mangement and Business Intelligence\NorthWindG1 - Copia\NorthWindG1\NorthWindOLTP\bin\Debug\NorthWindOLTP.dll
+C:\Users\Dell\Desktop\04 Data Mangement and Business Intelligence\NorthWindG1 - Copia\NorthWindG1\NorthWindOLTP\bin\Debug\NorthWindOLTP.pdb
+C:\Users\Dell\Desktop\04 Data Mangement and Business Intelligence\NorthWindG1 - Copia\NorthWindG1\NorthWindOLTP\obj\Debug\NorthWindOLTP.sqlproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\04 Data Mangement and Business Intelligence\NorthWindG1 - Copia\NorthWindG1\NorthWindOLTP\obj\Debug\NorthWindOLTP.dll
+C:\Users\Dell\Desktop\04 Data Mangement and Business Intelligence\NorthWindG1 - Copia\NorthWindG1\NorthWindOLTP\obj\Debug\NorthWindOLTP.pdb
