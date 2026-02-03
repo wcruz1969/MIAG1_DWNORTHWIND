@@ -8,9 +8,9 @@
         <UseWinAuth>false</UseWinAuth>
         <WinAuthUserName />
         <WinAuthDomain />
-        <ServerName />
-        <PathOnServer />
-        <StartObjectID>DimShipper.dtsx</StartObjectID>
+        <ServerName>DESKTOP-DE6AEBM\MSSQLSERVER2026</ServerName>
+        <PathOnServer>/SSISDB/NorthWind_G1/NorthWindETL</PathOnServer>
+        <StartObjectID>DimEmployee.dtsx</StartObjectID>
         <UserIDs />
         <UserPasswords />
         <OfflineMode>false</OfflineMode>
