@@ -1,0 +1,122 @@
+﻿** Aspectos destacados
+     Tablas que se volverán a crear con los datos migrados
+       Ninguno
+     Índices clúster que se van a quitar
+       Ninguno
+     Índices clúster que se van a crear
+       Ninguno
+     Posibles incidencias de datos
+       Ninguno
+
+** Acciones del usuario
+     Crear
+       [dbo].[Categories] (Tabla)
+       [dbo].[Categories].[CategoryName] (Índice)
+       [dbo].[CustomerCustomerDemo] (Tabla)
+       [dbo].[CustomerDemographics] (Tabla)
+       [dbo].[Customers] (Tabla)
+       [dbo].[Customers].[City] (Índice)
+       [dbo].[Customers].[CompanyName] (Índice)
+       [dbo].[Customers].[PostalCode] (Índice)
+       [dbo].[Customers].[Region] (Índice)
+       [dbo].[Employees] (Tabla)
+       [dbo].[Employees].[LastName] (Índice)
+       [dbo].[Employees].[PostalCode] (Índice)
+       [dbo].[EmployeeTerritories] (Tabla)
+       [dbo].[OrderDetails] (Tabla)
+       [dbo].[OrderDetails].[OrderID] (Índice)
+       [dbo].[OrderDetails].[OrdersOrder_Details] (Índice)
+       [dbo].[OrderDetails].[ProductID] (Índice)
+       [dbo].[OrderDetails].[ProductsOrder_Details] (Índice)
+       [dbo].[Orders] (Tabla)
+       [dbo].[Orders].[CustomerID] (Índice)
+       [dbo].[Orders].[CustomersOrders] (Índice)
+       [dbo].[Orders].[EmployeeID] (Índice)
+       [dbo].[Orders].[EmployeesOrders] (Índice)
+       [dbo].[Orders].[OrderDate] (Índice)
+       [dbo].[Orders].[ShippedDate] (Índice)
+       [dbo].[Orders].[ShippersOrders] (Índice)
+       [dbo].[Orders].[ShipPostalCode] (Índice)
+       [dbo].[Products] (Tabla)
+       [dbo].[Products].[CategoriesProducts] (Índice)
+       [dbo].[Products].[CategoryID] (Índice)
+       [dbo].[Products].[ProductName] (Índice)
+       [dbo].[Products].[SupplierID] (Índice)
+       [dbo].[Products].[SuppliersProducts] (Índice)
+       [dbo].[Region] (Tabla)
+       [dbo].[Shippers] (Tabla)
+       [dbo].[Suppliers] (Tabla)
+       [dbo].[Suppliers].[CompanyName] (Índice)
+       [dbo].[Suppliers].[PostalCode] (Índice)
+       [dbo].[Territories] (Tabla)
+       [dbo].[DF_Order_Details_UnitPrice] (Restricción DEFAULT)
+       [dbo].[DF_Order_Details_Quantity] (Restricción DEFAULT)
+       [dbo].[DF_Order_Details_Discount] (Restricción DEFAULT)
+       [dbo].[DF_Orders_Freight] (Restricción DEFAULT)
+       [dbo].[DF_Products_UnitPrice] (Restricción DEFAULT)
+       [dbo].[DF_Products_UnitsInStock] (Restricción DEFAULT)
+       [dbo].[DF_Products_UnitsOnOrder] (Restricción DEFAULT)
+       [dbo].[DF_Products_ReorderLevel] (Restricción DEFAULT)
+       [dbo].[DF_Products_Discontinued] (Restricción DEFAULT)
+       [dbo].[FK_CustomerCustomerDemo] (Clave externa)
+       [dbo].[FK_CustomerCustomerDemo_Customers] (Clave externa)
+       [dbo].[FK_Employees_Employees] (Clave externa)
+       [dbo].[FK_EmployeeTerritories_Employees] (Clave externa)
+       [dbo].[FK_EmployeeTerritories_Territories] (Clave externa)
+       [dbo].[FK_Order_Details_Orders] (Clave externa)
+       [dbo].[FK_Order_Details_Products] (Clave externa)
+       [dbo].[FK_Orders_Customers] (Clave externa)
+       [dbo].[FK_Orders_Employees] (Clave externa)
+       [dbo].[FK_Orders_Shippers] (Clave externa)
+       [dbo].[FK_Products_Categories] (Clave externa)
+       [dbo].[FK_Products_Suppliers] (Clave externa)
+       [dbo].[FK_Territories_Region] (Clave externa)
+       [dbo].[CK_Birthdate] (Restricción CHECK)
+       [dbo].[CK_Discount] (Restricción CHECK)
+       [dbo].[CK_Quantity] (Restricción CHECK)
+       [dbo].[CK_UnitPrice] (Restricción CHECK)
+       [dbo].[CK_Products_UnitPrice] (Restricción CHECK)
+       [dbo].[CK_ReorderLevel] (Restricción CHECK)
+       [dbo].[CK_UnitsInStock] (Restricción CHECK)
+       [dbo].[CK_UnitsOnOrder] (Restricción CHECK)
+       [dbo].[CustOrderHist] (Procedimiento)
+       [dbo].[CustOrdersDetail] (Procedimiento)
+       [dbo].[CustOrdersOrders] (Procedimiento)
+       [dbo].[Employee Sales by Country] (Procedimiento)
+       [dbo].[GetCustomerChangesByRowVersion] (Procedimiento)
+       [dbo].[GetEmployeeChangesByRowVersion] (Procedimiento)
+       [dbo].[GetProductChangesByRowVersion] (Procedimiento)
+       [dbo].[Sales by Year] (Procedimiento)
+       [dbo].[SalesByCategory] (Procedimiento)
+       [dbo].[Ten Most Expensive Products] (Procedimiento)
+
+** Acciones de compatibilidad
+
+El objeto dbo.Categories.CategoryName se define con la palabra clave online. La implementación continuará y los cambios aplicables al objeto dbo.Categories.CategoryName se realizarán según la definición.
+El objeto dbo.Customers.City se define con la palabra clave online. La implementación continuará y los cambios aplicables al objeto dbo.Customers.City se realizarán según la definición.
+El objeto dbo.Customers.CompanyName se define con la palabra clave online. La implementación continuará y los cambios aplicables al objeto dbo.Customers.CompanyName se realizarán según la definición.
+El objeto dbo.Customers.PostalCode se define con la palabra clave online. La implementación continuará y los cambios aplicables al objeto dbo.Customers.PostalCode se realizarán según la definición.
+El objeto dbo.Customers.Region se define con la palabra clave online. La implementación continuará y los cambios aplicables al objeto dbo.Customers.Region se realizarán según la definición.
+El objeto dbo.Employees.LastName se define con la palabra clave online. La implementación continuará y los cambios aplicables al objeto dbo.Employees.LastName se realizarán según la definición.
+El objeto dbo.Employees.PostalCode se define con la palabra clave online. La implementación continuará y los cambios aplicables al objeto dbo.Employees.PostalCode se realizarán según la definición.
+El objeto dbo.OrderDetails.OrderID se define con la palabra clave online. La implementación continuará y los cambios aplicables al objeto dbo.OrderDetails.OrderID se realizarán según la definición.
+El objeto dbo.OrderDetails.OrdersOrder_Details se define con la palabra clave online. La implementación continuará y los cambios aplicables al objeto dbo.OrderDetails.OrdersOrder_Details se realizarán según la definición.
+El objeto dbo.OrderDetails.ProductID se define con la palabra clave online. La implementación continuará y los cambios aplicables al objeto dbo.OrderDetails.ProductID se realizarán según la definición.
+El objeto dbo.OrderDetails.ProductsOrder_Details se define con la palabra clave online. La implementación continuará y los cambios aplicables al objeto dbo.OrderDetails.ProductsOrder_Details se realizarán según la definición.
+El objeto dbo.Orders.CustomerID se define con la palabra clave online. La implementación continuará y los cambios aplicables al objeto dbo.Orders.CustomerID se realizarán según la definición.
+El objeto dbo.Orders.CustomersOrders se define con la palabra clave online. La implementación continuará y los cambios aplicables al objeto dbo.Orders.CustomersOrders se realizarán según la definición.
+El objeto dbo.Orders.EmployeeID se define con la palabra clave online. La implementación continuará y los cambios aplicables al objeto dbo.Orders.EmployeeID se realizarán según la definición.
+El objeto dbo.Orders.EmployeesOrders se define con la palabra clave online. La implementación continuará y los cambios aplicables al objeto dbo.Orders.EmployeesOrders se realizarán según la definición.
+El objeto dbo.Orders.OrderDate se define con la palabra clave online. La implementación continuará y los cambios aplicables al objeto dbo.Orders.OrderDate se realizarán según la definición.
+El objeto dbo.Orders.ShippedDate se define con la palabra clave online. La implementación continuará y los cambios aplicables al objeto dbo.Orders.ShippedDate se realizarán según la definición.
+El objeto dbo.Orders.ShippersOrders se define con la palabra clave online. La implementación continuará y los cambios aplicables al objeto dbo.Orders.ShippersOrders se realizarán según la definición.
+El objeto dbo.Orders.ShipPostalCode se define con la palabra clave online. La implementación continuará y los cambios aplicables al objeto dbo.Orders.ShipPostalCode se realizarán según la definición.
+El objeto dbo.Products.CategoriesProducts se define con la palabra clave online. La implementación continuará y los cambios aplicables al objeto dbo.Products.CategoriesProducts se realizarán según la definición.
+El objeto dbo.Products.CategoryID se define con la palabra clave online. La implementación continuará y los cambios aplicables al objeto dbo.Products.CategoryID se realizarán según la definición.
+El objeto dbo.Products.ProductName se define con la palabra clave online. La implementación continuará y los cambios aplicables al objeto dbo.Products.ProductName se realizarán según la definición.
+El objeto dbo.Products.SupplierID se define con la palabra clave online. La implementación continuará y los cambios aplicables al objeto dbo.Products.SupplierID se realizarán según la definición.
+El objeto dbo.Products.SuppliersProducts se define con la palabra clave online. La implementación continuará y los cambios aplicables al objeto dbo.Products.SuppliersProducts se realizarán según la definición.
+El objeto dbo.Suppliers.CompanyName se define con la palabra clave online. La implementación continuará y los cambios aplicables al objeto dbo.Suppliers.CompanyName se realizarán según la definición.
+El objeto dbo.Suppliers.PostalCode se define con la palabra clave online. La implementación continuará y los cambios aplicables al objeto dbo.Suppliers.PostalCode se realizarán según la definición.
+Las bases de datos del proyecto y de destino tienen una configuración de intercalación diferente. Se pueden producir errores de implementación.
+

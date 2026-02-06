@@ -1,0 +1,22 @@
+C:\Users\Dell\Desktop\04 Data Mangement and Business Intelligence\NorthWindG1\NorthWindG1\NorthWindDW\bin\Debug\NorthWindDW.dacpac
+C:\Users\Dell\Desktop\04 Data Mangement and Business Intelligence\NorthWindG1\NorthWindG1\NorthWindDW\bin\Debug\NorthWindDW.dll
+C:\Users\Dell\Desktop\04 Data Mangement and Business Intelligence\NorthWindG1\NorthWindG1\NorthWindDW\bin\Debug\NorthWindDW.pdb
+C:\Users\Dell\Desktop\04 Data Mangement and Business Intelligence\NorthWindG1\NorthWindG1\NorthWindDW\obj\Debug\NorthWindDW.sqlproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\04 Data Mangement and Business Intelligence\NorthWindG1\NorthWindG1\NorthWindDW\obj\Debug\NorthWindDW.dll
+C:\Users\Dell\Desktop\04 Data Mangement and Business Intelligence\NorthWindG1\NorthWindG1\NorthWindDW\obj\Debug\NorthWindDW.pdb
+C:\Users\Dell\Desktop\04 Data Mangement and Business Intelligence\NorthWindG1 - Copia\NorthWindG1\NorthWindDW\bin\Debug\NorthWindDW.dacpac
+C:\Users\Dell\Desktop\04 Data Mangement and Business Intelligence\NorthWindG1 - Copia\NorthWindG1\NorthWindDW\bin\Debug\NorthWindDW.dll
+C:\Users\Dell\Desktop\04 Data Mangement and Business Intelligence\NorthWindG1 - Copia\NorthWindG1\NorthWindDW\bin\Debug\NorthWindDW.pdb
+C:\Users\Dell\Desktop\04 Data Mangement and Business Intelligence\NorthWindG1 - Copia\NorthWindG1\NorthWindDW\obj\Debug\NorthWindDW.sqlproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\04 Data Mangement and Business Intelligence\NorthWindG1 - Copia\NorthWindG1\NorthWindDW\obj\Debug\NorthWindDW.dll
+C:\Users\Dell\Desktop\04 Data Mangement and Business Intelligence\NorthWindG1 - Copia\NorthWindG1\NorthWindDW\obj\Debug\NorthWindDW.pdb
+D:\usuario_data\NorthWindG1_intento1\NorthWindG1\NorthWindDW\bin\Debug\NorthWindDW.dacpac
+D:\usuario_data\NorthWindG1_intento1\NorthWindG1\NorthWindDW\bin\Debug\NorthWindDW.dll
+D:\usuario_data\NorthWindG1_intento1\NorthWindG1\NorthWindDW\bin\Debug\NorthWindDW.pdb
+D:\usuario_data\NorthWindG1_intento1\NorthWindG1\NorthWindDW\obj\Debug\NorthWindDW.sqlproj.AssemblyReference.cache
+D:\usuario_data\NorthWindG1_intento1\NorthWindG1\NorthWindDW\obj\Debug\Model.xml
+D:\usuario_data\NorthWindG1_intento1\NorthWindG1\NorthWindDW\obj\Debug\refactor.xml
+D:\usuario_data\NorthWindG1_intento1\NorthWindG1\NorthWindDW\obj\Debug\postdeploy.sql
+D:\usuario_data\NorthWindG1_intento1\NorthWindG1\NorthWindDW\obj\Debug\predeploy.sql
+D:\usuario_data\NorthWindG1_intento1\NorthWindG1\NorthWindDW\obj\Debug\NorthWindDW.dll
+D:\usuario_data\NorthWindG1_intento1\NorthWindG1\NorthWindDW\obj\Debug\NorthWindDW.pdb
