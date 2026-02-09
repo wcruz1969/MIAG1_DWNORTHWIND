@@ -1,0 +1,13 @@
+28/01/2026 22:07:30	Este registro contiene información acerca de la operación de importación del script 'DW_Northwind_EsquemaEstrella_revisar.sql' en el proyecto 'NorthWindDW' del equipo 'DESKTOP-DE6AEBM' por el usuario 'Dell.
+28/01/2026 22:07:30	Se inició la importación del archivo: C:\Users\Dell\Downloads\DW_Northwind_EsquemaEstrella_revisar.sql 
+28/01/2026 22:07:30	Nombre de archivo: C:\Users\Dell\Downloads\DW_Northwind_EsquemaEstrella_revisar.sql (tamaño: 8269)
+28/01/2026 22:07:30	Analizando script de importación
+28/01/2026 22:07:30	Número total de lotes en el script: 12
+28/01/2026 22:07:30	Número total de instrucciones en el script: 26
+28/01/2026 22:07:30	El script se importó correctamente en el proyecto.
+28/01/2026 22:07:30	Analizando los objetos de esquema...
+28/01/2026 22:07:30	Buscando elementos duplicados en el proyecto
+28/01/2026 22:07:30	Ha finalizado el procesamiento de los elementos duplicados
+28/01/2026 22:07:30	En el script que proporcionó para la operación de importación, no se comprendieron totalmente dos o más instrucciones. Estas instrucciones se movieron al archivo ScriptsIgnoredOnImport.sql. Revise el contenido del archivo para obtener más información.
+28/01/2026 22:07:30	Se guardó un resumen de la importación en la siguiente ubicación: C:\Users\Dell\Desktop\04 Data Mangement and Business Intelligence\NorthWindG1\NorthWindG1\NorthWindDW\Registros de importación de scripts\DW_Northwind_Esquema_20260129020730.log
+28/01/2026 22:07:30	Haga clic en Finalizar para continuar...

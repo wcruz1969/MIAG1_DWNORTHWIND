@@ -1,0 +1,18 @@
+C:\Users\Dell\Desktop\04 Data Mangement and Business Intelligence\NorthWindG1\NorthWindG1\NorthWindOLTP\bin\Debug\NorthWindOLTP.dacpac
+C:\Users\Dell\Desktop\04 Data Mangement and Business Intelligence\NorthWindG1\NorthWindG1\NorthWindOLTP\bin\Debug\NorthWindOLTP.dll
+C:\Users\Dell\Desktop\04 Data Mangement and Business Intelligence\NorthWindG1\NorthWindG1\NorthWindOLTP\bin\Debug\NorthWindOLTP.pdb
+C:\Users\Dell\Desktop\04 Data Mangement and Business Intelligence\NorthWindG1\NorthWindG1\NorthWindOLTP\obj\Debug\NorthWindOLTP.sqlproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\04 Data Mangement and Business Intelligence\NorthWindG1\NorthWindG1\NorthWindOLTP\obj\Debug\NorthWindOLTP.dll
+C:\Users\Dell\Desktop\04 Data Mangement and Business Intelligence\NorthWindG1\NorthWindG1\NorthWindOLTP\obj\Debug\NorthWindOLTP.pdb
+C:\Users\Dell\Desktop\04 Data Mangement and Business Intelligence\NorthWindG1 - Copia\NorthWindG1\NorthWindOLTP\bin\Debug\NorthWindOLTP.dacpac
+C:\Users\Dell\Desktop\04 Data Mangement and Business Intelligence\NorthWindG1 - Copia\NorthWindG1\NorthWindOLTP\bin\Debug\NorthWindOLTP.dll
+C:\Users\Dell\Desktop\04 Data Mangement and Business Intelligence\NorthWindG1 - Copia\NorthWindG1\NorthWindOLTP\bin\Debug\NorthWindOLTP.pdb
+C:\Users\Dell\Desktop\04 Data Mangement and Business Intelligence\NorthWindG1 - Copia\NorthWindG1\NorthWindOLTP\obj\Debug\NorthWindOLTP.sqlproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\04 Data Mangement and Business Intelligence\NorthWindG1 - Copia\NorthWindG1\NorthWindOLTP\obj\Debug\NorthWindOLTP.dll
+C:\Users\Dell\Desktop\04 Data Mangement and Business Intelligence\NorthWindG1 - Copia\NorthWindG1\NorthWindOLTP\obj\Debug\NorthWindOLTP.pdb
+D:\usuario_data\NorthWindG1_intento1\NorthWindG1\NorthWindOLTP\bin\Debug\NorthWindOLTP.dacpac
+D:\usuario_data\NorthWindG1_intento1\NorthWindG1\NorthWindOLTP\bin\Debug\NorthWindOLTP.dll
+D:\usuario_data\NorthWindG1_intento1\NorthWindG1\NorthWindOLTP\bin\Debug\NorthWindOLTP.pdb
+D:\usuario_data\NorthWindG1_intento1\NorthWindG1\NorthWindOLTP\obj\Debug\NorthWindOLTP.sqlproj.AssemblyReference.cache
+D:\usuario_data\NorthWindG1_intento1\NorthWindG1\NorthWindOLTP\obj\Debug\NorthWindOLTP.dll
+D:\usuario_data\NorthWindG1_intento1\NorthWindG1\NorthWindOLTP\obj\Debug\NorthWindOLTP.pdb

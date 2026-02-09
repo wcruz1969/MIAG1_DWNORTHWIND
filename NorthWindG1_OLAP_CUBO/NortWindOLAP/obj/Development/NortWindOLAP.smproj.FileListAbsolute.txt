@@ -1,0 +1,8 @@
+D:\usuario_data\NorthWindG1_intento1\NorthWindG1\NortWindOLAP\bin\NorthWindOLAP.asdatabase
+D:\usuario_data\NorthWindG1_intento1\NorthWindG1\NortWindOLAP\bin\NorthWindOLAP.deploymenttargets
+D:\usuario_data\NorthWindG1_intento1\NorthWindG1\NortWindOLAP\bin\NorthWindOLAP.deploymentoptions
+D:\usuario_data\NorthWindG1_intento1\NorthWindG1\NortWindOLAP\obj\Development\NortWindOLAP.smproj.AssemblyReference.cache
+D:\usuario_data\NorthWindG1_intento1\NorthWindG1\NortWindOLAP\obj\Development\NortWindOLAP.smproj.CoreCompileInputs.cache
+D:\usuario_data\NorthWindG1_intento1\NorthWindG1\NortWindOLAP\obj\Development\NorthWindOLAP.asdatabase
+D:\usuario_data\NorthWindG1_intento1\NorthWindG1\NortWindOLAP\obj\Development\NorthWindOLAP.deploymentoptions
+D:\usuario_data\NorthWindG1_intento1\NorthWindG1\NortWindOLAP\obj\Development\NorthWindOLAP.deploymenttargets
